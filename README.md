@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/47932188/206290292-c7186f2b-b06b-48c2-aa12-155fb6ee2dfe.png" alt="Just me." style="height: 200px; width:200px;"/>
 <p>Hello!</p><br>
-I'm @RudsonE or <text Rudson Emanoeland I'm interested in learning to program more and more...<br>
+I'm @RudsonE or Rudson Emanoel and I'm interested in learning to program more and more...<br>
 Now, currently learning JS(JavaScript), ReactNative and more.
 
 I have a dream change the world by programming.<br>
